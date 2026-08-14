@@ -32,15 +32,12 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 li {
-  float: left;
   font-family: 'acrossthenight';
-  align-items: center
 }
 
 li a {
