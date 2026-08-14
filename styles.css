@@ -19,11 +19,12 @@ h1 {
   color: #F4F9E9;
   text-align: center;
   font-family: 'bmspace';
+  font-size:2.5rem;
 }
 
 p {
   font-family: 'acrossthenight';
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 body {
@@ -32,7 +33,7 @@ body {
   background-repeat: repeat; 
   margin: 0;
   padding: 0;
-  overflow: auto;
+  overflow-x: hidden;
 }
 
 ul {
@@ -44,7 +45,7 @@ ul {
 
 li {
   font-family: 'acrossthenight';
-  font-size: 30px;
+  font-size: 1.5rem;
 }
 
 li a {
@@ -64,9 +65,11 @@ hr {
   background: #284B63;
   background: linear-gradient(180deg,rgba(40, 75, 99, 1) 0%, rgba(24, 52, 71, 1) 100%);
   width: 60%;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   min-height: 100vh;
+  box-sizing: border-box;
   overflow: auto;
   border-color: #153243;
   border-left-style: double;
@@ -87,8 +90,9 @@ hr {
 .farts {
   background: #153243;
   border-radius: 10px;
-  padding: 5px;
-  width: 500px;
+  padding: 15px;
+  width: 90%;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 5%;
@@ -110,4 +114,17 @@ hr {
 .options {
   color: #F4F9E9;
   text-align: center;
+}
+/* rwd for mobile losers */
+@media (max-width: 768px) {
+  .white-bg {
+    width: 95%;
+    border-width: 2px;
+  }
+  
+  /* vert mobile links */
+  ul {
+    display: flex;
+    flex-direction: column;
+  }
 }
