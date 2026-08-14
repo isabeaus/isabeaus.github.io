@@ -50,3 +50,16 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.button {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: transform 0.2s; /* Animation */
+}
+
+.button:hover {
+  transform: scale(1.1); /* Scale up the button */
+}
