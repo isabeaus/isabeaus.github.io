@@ -27,7 +27,7 @@ p {
 }
 
 body {
-  background-image: url('images/bg.png')
+  background-image: url('images/bg.png');
   background-position: center; 
   background-repeat: repeat; 
   margin: 0;
