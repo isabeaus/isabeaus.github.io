@@ -27,7 +27,7 @@ p {
 }
 
 body {
-  background-color: #284B63;
+  background-color: EEF0EB;
   margin: 0;
   padding: 0;
   overflow: auto;
@@ -54,7 +54,7 @@ li a {
 }
 /* classes */
 .white-bg {
-  background-color: #EEF0EB;
+  background-color: #284B63;
   width: 75%;
   margin-left: auto;
   margin-right: auto;
