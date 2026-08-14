@@ -68,8 +68,9 @@ hr {
   margin-right: auto;
   min-height: 100vh;
   overflow: auto;
-  border-left-style: ridge;
-  border-right-style: ridge;
+  border-color: #153243;
+  border-left-style: double;
+  border-right-style: double;
   border-width: 5px;
 }
 .center-image {
