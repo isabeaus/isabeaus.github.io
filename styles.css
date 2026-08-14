@@ -29,9 +29,18 @@ p {
 body {
   background-color: #284B63;
 }
+
 li {
   font-family: 'acrossthenight';
   font-size: 20px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
 }
 /* classes */
 .center-image {
