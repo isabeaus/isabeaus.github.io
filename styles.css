@@ -29,4 +29,7 @@ p {
 .center-image img {
   width: 100px;
   height: auto;
+  background-color: #153243;
+  border-radius: 5px;
+  padding: 5px;
 }
