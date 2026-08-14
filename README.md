@@ -1,1 +1,1 @@
-<p>Rib is a FAGGOT</p>
+<h1 style="text-align: center;">Rib is a FAGGOT</h1>
