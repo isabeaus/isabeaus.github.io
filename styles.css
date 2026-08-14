@@ -68,7 +68,8 @@ hr {
   margin-right: auto;
   min-height: 100vh;
   overflow: auto;
-  border-style: groove;
+  border-left-style: groove;
+  border-right-style: groove;
   border-width: 5px;
 }
 .center-image {
