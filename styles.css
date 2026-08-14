@@ -20,3 +20,8 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+.center-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  ]
