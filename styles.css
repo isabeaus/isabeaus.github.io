@@ -29,7 +29,10 @@ p {
 body {
   background-color: #284B63;
 }
-
+li {
+  font-family: 'acrossthenight';
+  font-size: 20px;
+}
 /* classes */
 .center-image {
   display: flex;
