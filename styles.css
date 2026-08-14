@@ -54,6 +54,11 @@ li a {
   padding: 16px;
   text-decoration: none;
 }
+
+hr {
+  color: F4F9E9;
+  width: 80%;
+}
 /* classes */
 .white-bg {
   background-color: #284B63;
