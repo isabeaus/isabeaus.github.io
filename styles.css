@@ -121,11 +121,30 @@ hr {
     width: 95%;
     border-width: 2px;
     }
-  }
-  
   /* vert mobile links */
   ul {
     display: flex;
     flex-direction: column;
+  }
+  /* Increase Font Sizes */
+  h1 {
+    font-size: 3.5rem; /* Makes the main heading much larger */
+  }
+
+  p {
+    font-size: 1.6rem; /* Boosts paragraph text visibility */
+  }
+
+  li {
+    font-size: 2rem;
+  }
+
+  .center-image img {
+    width: 180px;
+    max-width: 100%;
+  }
+  .white-bg {
+    width: 95%; 
+    border-width: 2px; 
   }
 }
