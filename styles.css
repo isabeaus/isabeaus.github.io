@@ -121,18 +121,16 @@ hr {
     width: 95%;
     border-width: 2px;
     }
-  /* vert mobile links */
   ul {
     display: flex;
     flex-direction: column;
   }
-  /* Increase Font Sizes */
   h1 {
-    font-size: 3.5rem; /* Makes the main heading much larger */
+    font-size: 3.5rem;
   }
 
   p {
-    font-size: 1.6rem; /* Boosts paragraph text visibility */
+    font-size: 1.6rem;
   }
 
   li {
