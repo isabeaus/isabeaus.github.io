@@ -26,3 +26,8 @@ p {
   align-items: center;
   width: 100px;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
