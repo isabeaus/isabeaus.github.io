@@ -77,10 +77,11 @@ li a {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-  transition: transform 0.2s; /* Animation */
+  transition: transform 0.2s; 
 }
+
 .button:hover {
-  transform: scale(1.1); /* Scale up the button */
+  transform: scale(1.1);
 }
 
 .options {
