@@ -9,19 +9,18 @@
 body {
   background-color: #284B63;
 }
-
+/* elements */
 h1 {
   color: #F4F9E9;
   text-align: center;
   font-family: 'bmspace';
-  margin-top: 10%;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
 }
-<!-- Write your comments here -->
+/* classes */
 .center-image {
   display: flex;
   justify-content: center;
@@ -30,7 +29,11 @@ p {
 .center-image img {
   width: 100px;
   height: auto;
+}
+
+.farts {
   background-color: #153243;
   border-radius: 5px;
   padding: 5px;
+  margin-top: 10%;
 }
