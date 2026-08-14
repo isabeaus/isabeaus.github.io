@@ -75,7 +75,8 @@ li a {
 }
 
 .farts {
-  background-color: #153243;
+  background: #284B63;
+  background: linear-gradient(90deg,rgba(40, 75, 99, 1) 0%, rgba(24, 52, 71, 1) 100%);
   border-radius: 10px;
   padding: 5px;
   width: 500px;
