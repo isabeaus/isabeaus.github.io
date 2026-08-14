@@ -35,11 +35,12 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  align-items: center
 }
 
 li {
   float: left;
+  font-family: 'acrossthenight';
+  align-items: center
 }
 
 li a {
