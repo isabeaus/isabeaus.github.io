@@ -30,24 +30,6 @@ body {
   background-color: #284B63;
 }
 
-ul {
-  list-style-type: none;
-  display: flex;
-  align-items: center;
-}
-
-li {
-  font-family: 'acrossthenight';
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-}
-
 /* classes */
 .center-image {
   display: flex;
