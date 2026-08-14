@@ -59,7 +59,11 @@ body {
   cursor: pointer;
   transition: transform 0.2s; /* Animation */
 }
-
 .button:hover {
   transform: scale(1.1); /* Scale up the button */
+}
+
+.options {
+  color: #153243;
+  text-align: center;
 }
