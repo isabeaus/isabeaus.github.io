@@ -28,6 +28,8 @@ p {
 
 body {
   background-color: #284B63;
+  margin: 0;
+  padding: 0;
 }
 
 ul {
@@ -55,6 +57,7 @@ li a {
   width: 75%;
   margin-left: auto;
   margin-right: auto;
+  min-height: 100vh;
 }
 .center-image {
   display: flex;
