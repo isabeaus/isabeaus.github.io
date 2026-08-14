@@ -22,9 +22,10 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: 'skipstd';
   font-size: 20px;
 }
+
 body {
   background-color: #284B63;
 }
