@@ -27,7 +27,9 @@ p {
 }
 
 body {
-  background-image: url('images/bg.jpg')
+  background-image: url('images/bg.jpg')|
+  background-position: center; 
+  background-repeat: repeat; 
   margin: 0;
   padding: 0;
   overflow: auto;
