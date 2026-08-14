@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: 'skipstd';
-  src: url('fonts/skipstd.ttf') format('truetype');
+  src: url('fonts/skipstd.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
