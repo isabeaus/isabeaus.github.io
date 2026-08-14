@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'bmspace';
+  src: url('fonts/bmspa.TTF') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
   background-color: lightblue;
 }
