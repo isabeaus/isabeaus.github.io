@@ -118,7 +118,8 @@ hr {
 /* rwd for mobile losers */
 @media (max-width: 768px) {
   .white-bg {
-    width: 95%;
+    width: 100%;
+    max-width: 100%;
     border-width: 2px;
     }
   ul {
