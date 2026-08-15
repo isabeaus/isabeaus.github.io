@@ -115,6 +115,14 @@ hr {
   color: #F4F9E9;
   text-align: center;
 }
+
+.changelog {
+  background-color: lightblue;
+  width: 110px;
+  height: 110px;
+  overflow: scroll;
+  
+}
 /* rwd for mobile losers */
 @media (max-width: 768px) {
   .white-bg {
